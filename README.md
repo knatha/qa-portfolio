@@ -1,5 +1,7 @@
 # SauceDemo E2E Automation Suite (Playwright + TypeScript)
 
+![Playwright Tests](https://github.com/YOUR_USERNAME/YOUR_REPO/actions/workflows/playwright.yml/badge.svg)
+
 A sample end-to-end test automation project built to demonstrate freelance
 QA automation skills — Page Object Model architecture, UI + API testing,
 data-driven tests, and CI/CD integration.
@@ -58,9 +60,9 @@ npm run report        # view the last HTML report
 
 ## Test accounts used (seeded by SauceDemo for this exact purpose)
 
-| Username | Password | Behavior |
-|---|---|---|
-| `standard_user` | `secret_sauce` | Normal flow |
+| Username          | Password       | Behavior         |
+| ----------------- | -------------- | ---------------- |
+| `standard_user`   | `secret_sauce` | Normal flow      |
 | `locked_out_user` | `secret_sauce` | Blocked at login |
 
 ## Notes for prospective clients
