@@ -1,6 +1,6 @@
 # SauceDemo E2E Automation Suite (Playwright + TypeScript)
 
-![Playwright Tests](https://github.com/YOUR_USERNAME/YOUR_REPO/actions/workflows/playwright.yml/badge.svg)
+![Playwright Tests](https://github.com/knatha/qa-portfolio/actions/workflows/playwright.yml/badge.svg)
 
 A sample end-to-end test automation project built to demonstrate freelance
 QA automation skills — Page Object Model architecture, UI + API testing,
